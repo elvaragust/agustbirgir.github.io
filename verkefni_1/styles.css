@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(61, 56, 56);
+    color: white;
+    border: 5px solid red;
+    margin:2em auto;
+    padding:1em;
+    width:60em;
+    font-size:1em;
+} 
+.elvis{
+    color:rgb(255, 36, 71);
+}
+h1{
+    color: grey;
+    font-size: 5em;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: chartreuse;
+}
+h6{
+    color: blue;
+    font-size: 1em;
+}
