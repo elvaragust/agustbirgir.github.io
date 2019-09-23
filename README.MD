@@ -1,3 +1,5 @@
+# 2019 haust
+## Dæmi um tiltekt í geymslu og verkefni 1.
 1. [Verkefni1]()
 2. verkfni 2
     *  [vekfeni 2.1](verkefni2/verkefni-21 og 21/)
