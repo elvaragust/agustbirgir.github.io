@@ -5,5 +5,6 @@
     *  [verkefni 2.1 og 2.2](verkefni_2/verkefni 2.1 2.2/)
     *  [verkefni 2.3](verkefni_2/verkefni-23/)
     *  [verkefni 2.4](verkefni_2/verkefni-24/)
-3. [verkefni 3]()
+3. verkefni 3
+    *  .[verkefni 3.1].(verk31)
 
