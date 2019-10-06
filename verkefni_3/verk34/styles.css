@@ -1,0 +1,76 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+    margin: 0 auto;
+    max-width:60em; /*= 60 em = 960px ~ 1080px fartölvuskjár */
+    background-color: blue;
+    color: white;
+}
+/* -- GRID AREA --  hnit */
+.content {
+    grid-area: content;
+    text-align: center;
+}
+.container{
+    grid-area: container;
+}
+.topnav{
+    grid-area: topnav;
+    border: solid;
+    color: white;
+    margin: 1em;
+    padding: 1em;
+}
+.foot{
+    grid-area: foot;
+    border: solid;
+    color: white;
+    margin: 1em;
+    padding: 1em;
+}
+/* dálkar í container */
+.as1{
+    grid-area: as1;
+    image-rendering: unset
+}
+.as2 {
+    grid-area: as2;
+}
+.art1 {
+    grid-area: art1;
+}
+/* -- Grid template --*/
+.content{
+    display:grid;
+    grid-gap:0;
+    grid-template-areas: 
+        "haus"
+        "topnav"
+        "container"
+        "foot"
+}
+/* -- innri tög í main --*/
+.container{
+    display:grid;
+    grid-gap:1em;
+    grid-template-areas:
+        "art1 art1" 
+        "as1  as2";
+    grid-template-columns: 1fr 1fr; 
+}
+
+/* -- flex box -- */
+.topmenu, .footmenu {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    margin:0;
+    padding: 1em;
+    background-color:black;
+    border: solid;
+}
+.topmenu li, .footmenu li{
+    list-style-type: none
+}
