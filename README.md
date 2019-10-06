@@ -8,6 +8,9 @@
 
 3. [Verkefni_3](verkefni_3)
    * [verkefni 31](verkefni_3/verk31/)
+   * [verkefni 32](verkefni_3/verk32/)
+   * [verkefni 33](verkefni_3/verk33/)
+   * [verkfeni 34](verkefni_3/verk34/)
    
     
 
