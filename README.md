@@ -7,5 +7,7 @@
     *  [verkefni 2.4](verkefni_2/verkefni-24/)
 
 3. [Verkefni_3](verkefni_3)
+   * [verkefni 31](verkefni_3/verk31/)
+   
     
 
